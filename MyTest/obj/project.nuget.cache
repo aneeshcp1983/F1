@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "zff6BaQMAAFSn9kmnHN/Hquf5kfi1ZtZdg2RrEr0FQQDbsCoPEKTRuPsyGISiKviWC3gYW1QfhfVjKPAH75ZFA==",
+  "success": true,
+  "projectFilePath": "D:\\ASP Apps\\FantasyWebApp\\MyTest\\MyTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aneesh.pankajakshan\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\aneesh.pankajakshan\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "C:\\Users\\aneesh.pankajakshan\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0\\microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "C:\\Users\\aneesh.pankajakshan\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0\\microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "C:\\Users\\aneesh.pankajakshan\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.0\\microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "C:\\Users\\aneesh.pankajakshan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\aneesh.pankajakshan\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\aneesh.pankajakshan\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\aneesh.pankajakshan\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\aneesh.pankajakshan\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
